@@ -1,4 +1,7 @@
 {"Name":"Kate",
-"Age": 35
+ "Age": 35,
+ "Animals": "A dog",
+ "Profession": "QA",
+ "Salary": 3500
 }
 
